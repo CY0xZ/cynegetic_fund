@@ -5,6 +5,9 @@ Cynegetic Investment Management is developing a token on the Solana network, und
 
 ## Project Structure:
 
+## Project Structure
+
+```plaintext
 cynegetic_fund/
 ├── programs/                  # Contains the smart contract source code
 │   └── cynegetic_fund/        # Program-specific directory
@@ -19,9 +22,10 @@ cynegetic_fund/
 ├── scripts/                   # Additional scripts to interact with the smart contract
 │   └── airdrop.js             # Script to perform airdrops (example)
 ├── .github/                   # CI/CD configuration with GitHub Actions
-│   └── workflows/
+│   └── workflows/             
 │       └── build.yml          # Configuration file for continuous integration and deployment
 └── README.md                  # Project documentation
+
 
 
 ## Requirements
