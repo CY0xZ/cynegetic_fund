@@ -5,8 +5,6 @@ Cynegetic Investment Management is developing a token on the Solana network, und
 
 ## Project Structure:
 
-## Project Structure
-
 ```plaintext
 cynegetic_fund/
 ├── programs/                  # Contains the smart contract source code
