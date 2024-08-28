@@ -25,7 +25,7 @@ cynegetic_fund/
 │   └── workflows/             
 │       └── build.yml          # Configuration file for continuous integration and deployment
 └── README.md                  # Project documentation
-
+```
 
 
 ## Requirements
